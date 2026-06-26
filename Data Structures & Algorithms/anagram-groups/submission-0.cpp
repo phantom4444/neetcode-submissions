@@ -1,3 +1,4 @@
+// use the 26 characters key to uniquely identify a anagram
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
