@@ -1,3 +1,5 @@
+//this is bucket sorting. 
+//count the frequencies of each number using map, and then create a bucket in which you will store the nums with that frequency
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
